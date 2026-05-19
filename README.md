@@ -1,5 +1,12 @@
-## Hi there 👋
+# Amandine Miranda - Étudiante en BUT Informatique
 
+## Développeuse qui aime créer via le code, mais aussi un crayon ✏️✨
+
+Je suis une zone de texte qui va me présenter
+
+## Mes projets :
+
+Placeholder
 <!--
 **Amandine-Miranda/Amandine-Miranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
