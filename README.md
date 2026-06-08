@@ -4,8 +4,6 @@
 
 Salut ! Je me présente, je m'appelle Amandine Miranda, je suis étudiante en première année de BUT Informatique, et j'ai 21 ans :))
 
-![J'aime bien dessiner :D](drawing.png)
-
 ## Je travaille actuellement sur :
 
 - **Projet Stargate** : Un projet codé en C# sur le logiciel Visual Studio, permettant de consulter et ajouter des missions d'exploration intergalactiques, de consulter des espèces d'aliens inconnues, en apprendre plus sur des planètes et encore plus ! Tout ça avec un interface graphique rappelant notamment le Nostromo... (Projet de 1ère année)
