@@ -2,9 +2,13 @@
 
 ## Développeuse qui aime créer via le code, mais aussi un crayon ✏️✨
 
-Salut ! Je me présente, je m'appelle Amandine Miranda, je suis étudiante en première année de BUT Informatique, et j'ai 21 ans :))
+Salut ! Je me présente, je m'appelle Amandine Miranda, je suis étudiante en deuxième année de BUT Informatique, et j'ai 21 ans !
 
 ## Je travaille actuellement sur :
+
+- **Projet T3** : Un futur jeu sérieux sur le thème des streamers politisés, se jouant avec des cartes représentant les différentes actions correspondant aux divers bords politiques. Le jeu sera créé sur Godot et pour lequel je serai game designeuse !
+
+## J'ai pu travailler sur :
 
 - **Projet Stargate** : Un projet codé en C# sur le logiciel Visual Studio, permettant de consulter et ajouter des missions d'exploration intergalactiques, de consulter des espèces d'aliens inconnues, en apprendre plus sur des planètes et encore plus ! Tout ça avec un interface graphique rappelant notamment le Nostromo... (Projet de 1ère année)
 
